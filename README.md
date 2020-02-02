@@ -1,2 +1,2 @@
 # HackerRankCPP
-HackerRank Solutions that are solved by me.
+HackerRank questions that are solved by me.
